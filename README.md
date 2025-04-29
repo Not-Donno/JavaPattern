@@ -8,13 +8,13 @@ This project is a collection of classic text-based patterns written in **Java** 
 This pattern creates a symmetrical diamond shape made of asterisks *. It consists of two parts: the upper half, which starts with one star and gradually increases in width, and the lower half, which is a mirror image of the upper half, decreasing in width. This pattern is great for practicing nested loops and understanding how to print shapes that are symmetrical both horizontally and vertically.
 
 **Preview:**
-`   *   `
-`  ***  `
-` ***** `
-`******* `
-` ***** `
-`  ***  `
-`   *   `
+`  *   
+  ***  
+ ***** 
+******* 
+ ***** 
+  ***  
+   *   `
  ### 🪜 Stairs Pattern.
 The Stairs pattern prints a right-angled staircase. The number of rows represents the steps, with each step containing an increasing number of stars *. This pattern is useful for understanding how to create progressively longer lines with each iteration of a loop.
 
